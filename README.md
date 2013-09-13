@@ -1,2 +1,2 @@
-zackboe.github.com
+zackboe.github.io
 ==================
